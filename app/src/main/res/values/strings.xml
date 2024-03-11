@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Text Recognition</string>
+    <string name="clean">Очистить</string>
+    <string name="recognition">Распознавать</string>
+</resources>
